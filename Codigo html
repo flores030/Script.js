@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Carrinho de Compras</title>
+</head>
+<body>
+    <header>
+        <h1>Carrinho de Compras </h1>
+
+    </header>
+
+    <div class="container"></div>
+        <label>Selecione uma opção</label>
+        <select id="produtos">
+            <option ></option>
+            <option value= "Hamburguer Classico">Hamburguer  Classico</option>
+            <option value= "Hamburguer Duplo">Hamburguer Duplo</option>
+            <option value= "Hamburguer Completo">Hamburguer  Completo </option>
+        </select>
+        <button id="comprar">Comprar🛒</button>
+    </div)
+
+    <footer>
+        <ul>
+            <li>Mercado do tio do senai</li>
+            <li>Localizada no senai</li>
+            <li>A fila mais longa do Brasil</li>
+        </ul>
+
+    </footer>
+
+    <script src="./js/script.js"></script>
+</body>
+</html>
